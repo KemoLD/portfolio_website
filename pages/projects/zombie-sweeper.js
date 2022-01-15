@@ -19,7 +19,7 @@ const Project = () => (
             <List ml={4} my={4}>
                 <ListItem>
                     <Meta>Source Code</Meta>
-                    <Link href="https://github.com/KemoLD/Zombie-Sweeper" rel='noopener noreferrer'>
+                    <Link href="https://github.com/KemoLD/Zombie-Sweeper" target="_blank" rel='noopener noreferrer'>
                         https://github.com/KemoLD/Zombie-Sweeper <ExternalLinkIcon mx="2px" />
                     </Link>
                 </ListItem>
