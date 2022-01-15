@@ -90,7 +90,7 @@ const Page = () => {
                     </BioSection>
                     <BioSection>
                         <BioYear>2019</BioYear>
-                        Transfered to Simon Fraser University, and switched to a BASc in Computing Science
+                        Transfered to Simon Fraser University, and switched to a BsC in Computing Science
                     </BioSection>
                     <BioSection>
                         <BioYear>2021</BioYear>
@@ -108,10 +108,10 @@ const Page = () => {
                     </Heading>
                     <Paragraph>
                         In my free time, I like to play basketball or go to the gym. I have also been an active member of {' '}
-                        <Link href="http://heenointernational.com/" target="_blank">
+                        <Link href="http://heenointernational.com/" target="_blank" rel='noopener noreferrer'>
                             Heeno International
                         </Link>
-                        , since 2011, and have participated in major projects throughout Africa
+                        , since 2011, and have participated in major projects throughout Africa.
                     </Paragraph>
                 </Section>
 

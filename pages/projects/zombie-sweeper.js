@@ -11,15 +11,15 @@ const Project = () => (
                 Zombie Sweeper <Badge>2020</Badge>
             </Title>
             <P>
-                An android Mine seeker game. In this game, there are zombies hidden in tombs, it is the players job to find as my zombies
-                in the fewest clicks. TTo make things more exitingg, there is a "scanning feature" that reveals the amount of zombies
-                hidden in the row and column of the clicked tomb. The board size and amount of zombies are customizable
+                An android Mine seeker game. In this game, there are zombies hidden in tombs, and it is the players job to find as my zombies
+                in the fewest clicks. To make things more exciting, there is a "scanning feature" that reveals the amount of zombies
+                hidden in the row and column of the clicked tomb. The board size and amount of zombies are completely customizable.
 
             </P>
             <List ml={4} my={4}>
                 <ListItem>
                     <Meta>Source Code</Meta>
-                    <Link href="https://github.com/KemoLD/Zombie-Sweeper">
+                    <Link href="https://github.com/KemoLD/Zombie-Sweeper" rel='noopener noreferrer'>
                         https://github.com/KemoLD/Zombie-Sweeper <ExternalLinkIcon mx="2px" />
                     </Link>
                 </ListItem>

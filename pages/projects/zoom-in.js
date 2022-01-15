@@ -17,13 +17,13 @@ const Project = () => (
       <List ml={4} my={4}>
         <ListItem>
           <Meta>Website</Meta>
-          <Link href="https://zoom-in.netlify.app">
+          <Link href="https://zoom-in.netlify.app" rel='noopener noreferrer'>
             https://zoom-in.netlify.app <ExternalLinkIcon mx="2px" />
           </Link>
         </ListItem>
         <ListItem>
           <Meta>Source Code</Meta>
-          <Link href="https://github.com/KemoLD/Media-website">
+          <Link href="https://github.com/KemoLD/Media-website" rel='noopener noreferrer'>
             https://github.com/KemoLD/Media-website <ExternalLinkIcon mx="2px" />
           </Link>
         </ListItem>

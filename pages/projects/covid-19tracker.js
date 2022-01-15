@@ -19,13 +19,13 @@ const Project = () => (
             <List ml={4} my={4}>
                 <ListItem>
                     <Meta>Website</Meta>
-                    <Link href="c-19-trackerr.netlify.app">
+                    <Link href="c-19-trackerr.netlify.app" target="_blank" rel='noopener noreferrer'>
                         c-19-trackerr.netlify.app <ExternalLinkIcon mx="2px" />
                     </Link>
                 </ListItem>
                 <ListItem>
                     <Meta>Source Code</Meta>
-                    <Link href="https://github.com/KemoLD/Covid-19-tracker">
+                    <Link href="https://github.com/KemoLD/Covid-19-tracker" target="_blank" rel='noopener noreferrer'>
                         https://github.com/KemoLD/Covid-19-tracker <ExternalLinkIcon mx="2px" />
                     </Link>
                 </ListItem>

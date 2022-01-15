@@ -22,10 +22,11 @@ const Certification = () => {
                     </Heading>
                     <P>
                         As part of the program, I reviewed open-source implementations of PacMan and created a new game called Vax-man 
-                        by incorporating a different set of mechanics, which each  presented their own set of challenges in regards to 
-                        performance and inclusion of concurrency, in both Python and C++. I learned about game engine technologies used 
-                        in the gaming industry, such as FrostBite and Unreal Technologies. I also Learned about common cyber security 
-                        vulnerabilities such as stack buffer overflow and the Heartbleed bug, as well as how to mitigate them.
+                        by incorporating a different set of mechanics, in both Python and C++. The mechanics each  presented their own
+                         set of challenges in regards to performance and inclusion of concurrency. I had the opportuniy to learn about 
+                         popular game engine technologies used in the gaming industry, such as FrostBite and Unreal Technologies. I also 
+                         learned about common cyber security vulnerabilities such as stack buffer overflow and the Heartbleed bug, as 
+                         well as how to mitigate them.
                     </P>
                     <List ml={4} mb={4}>
                         <ListItem>

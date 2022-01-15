@@ -12,14 +12,14 @@ const Project = () => (
             </Title>
             <P>
                 An android parenting app that facilitates child management tasks for parents. The app allows parents to set up profiles
-                for their children to assign chores, timer, there is even a breathing exercise. Adittionally, if the children are arguing,
+                for their children to assign chores, create a timer, and even performa a healthy breathing exercise. Adittionally, if the children are arguing,
                 there is a "flip coin" functionality to settle the dispute.
 
             </P>
             <List ml={4} my={4}>
                 <ListItem>
                     <Meta>Source Code</Meta>
-                    <Link href="https://github.com/KemoLD/Parenting-App">
+                    <Link href="https://github.com/KemoLD/Parenting-App" target="_blank" rel='noopener noreferrer'>
                         https://github.com/KemoLD/Parenting-App <ExternalLinkIcon mx="2px" />
                     </Link>
                 </ListItem>
