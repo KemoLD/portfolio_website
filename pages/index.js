@@ -20,16 +20,18 @@ const Page = () => {
     return (
         <Layout>
             <Container maxW='container.md'>
-                <Box
-                    align="center"
-                    maxW="sm"
-                    borderRadius="lg"
-                    mb={6}
-                    p={3}
-                    textAlign="center"
-                    bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}
-                >
-                    Hello, welcome to my personal website!
+                <Box display='flex' align="center" alignItems='center'>
+                    <Box
+                        align="center"
+                        maxW="sm"
+                        borderRadius="lg"
+                        mb={6}
+                        p={3}
+                        textAlign="center"
+                        bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}
+                    >
+                        Hello, welcome to my personal website!
+                    </Box>
                 </Box>
 
                 <Box display={{ md: 'flex' }}>
