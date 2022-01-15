@@ -20,7 +20,7 @@ const Page = () => {
     return (
         <Layout>
             <Container maxW='container.md'>
-                <Box display='flex' align="center" alignItems='center'>
+                <Box display='flex' align="center" alignItems='center' justifyContent='center'>
                     <Box
                         align="center"
                         maxW="sm"
