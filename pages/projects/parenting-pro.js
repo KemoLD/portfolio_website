@@ -12,8 +12,8 @@ const Project = () => (
             </Title>
             <P>
                 An android parenting app that facilitates child management tasks for parents. The app allows parents to set up profiles
-                for their children to assign chores, create a timer, and even performa a healthy breathing exercise. Adittionally, if the children are arguing,
-                there is a "flip coin" functionality to settle the dispute.
+                for their children to assign chores, create timers, and even perform a healthy breathing exercise. Additionally, there 
+                is a "flip coin" functionality to settle child disputes.
 
             </P>
             <List ml={4} my={4}>

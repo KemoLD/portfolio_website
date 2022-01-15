@@ -12,9 +12,9 @@ const Project = () => (
             </Title>
             <P>
                 A complex analytics tool that measures individual Gitlab project contributions. Authentication is done through SFU's SSO server. 
-                Users can analyze any repository on their server to analyze based on a date and time range. Individual contributions are measured in points, which are
+                Users can analyze any repository on their server based on a date and time range. Individual contributions are measured in points, which are
                 completely customizable, meaning that adding a newline or comment, deleting characters, or creating files are all awarded different points
-                 based on the file type. File types are given weights, which are multiplied by the underlined contribitions. There is also a feature that allows certain file types 
+                 based on the file type. File types are given weights, which are multiplied by the underlined contribition. There is also a feature that allows certain file types 
                 to be excluded from the score computation. The data is then sorted into graphs and charts. Scores are given to each user and can be by sorted by commits or a date-range. 
                 There are additional features, such as viewing code diffs and notes per commit.
 

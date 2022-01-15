@@ -12,8 +12,7 @@ const Project = () => (
             </Title>
             <P>
                 A realtime COVID-19 cases, death and recoveries tracker. The website retrives data from the Disease.sh API.
-                Not only does the website retrieve information for each country, but it display a world map to notices the difference
-                between cases, recoveries and death in each country
+                Not only does the website retrieve information for each country, but it also displays an interactive world map.
 
             </P>
             <List ml={4} my={4}>
