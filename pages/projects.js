@@ -31,7 +31,7 @@ const Projects = () => {
                     </BioSection>
                     <BioSection>
                         <BioYear>SKILLS</BioYear>
-                        Figma, Android, Scrum framework, Agile development, API's
+                        Figma, Android, Scrum framework, Agile development, API's, JUnit5 testing, PostMan
                     </BioSection>
                 </Section>
 
