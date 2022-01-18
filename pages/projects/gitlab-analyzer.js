@@ -16,7 +16,8 @@ const Project = () => (
                 completely customizable, meaning that adding a newline or comment, deleting characters, or creating files are all awarded different points
                  based on the file type. File types are given weights, which are multiplied by the underlined contribition. There is also a feature that allows certain file types 
                 to be excluded from the score computation. The data is then sorted into graphs and charts. Scores are given to each user and can be by sorted by commits or a date-range. 
-                There are additional features, such as viewing code diffs and notes per commit.
+                There are additional features, such as viewing code diffs and notes per commit. For this project, the SCRUM agile framework was applied, with 2 weekly standups and weekly
+                 sprint reviews. There were 3 iterations for this project, in which my partners and I took on different roles.
 
             </P>
             <List ml={4} my={4}>

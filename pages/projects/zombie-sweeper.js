@@ -13,7 +13,7 @@ const Project = () => (
             <P>
                 An android Mine seeker game. In this game, there are zombies hidden in tombs, and it is the players job to find as many zombies
                 in the fewest amount of taps. To make things more exciting, there is a "scanning feature" that reveals the amount of zombies
-                hidden in the row and column of the tapped tomb. The board size and amount of zombies are completely customizable.
+                hidden in the row and column of the tapped tomb. The board size and amount of zombies are all completely customizable.
 
             </P>
             <List ml={4} my={4}>

@@ -12,8 +12,10 @@ const Project = () => (
             </Title>
             <P>
                 An android parenting app that facilitates child management tasks for parents. The app allows parents to set up profiles
-                for their children to assign chores, create timers, and even perform a healthy breathing exercise. Additionally, there 
-                is a "flip coin" functionality to settle child disputes.
+                for their children to assign chores, create timers(with the ability to slow down or speed up time), and even perform a 
+                healthy breathing exercise. Additionally, there is a "flip coin" functionality, with a visual animation,
+                 to settle child disputes. For this project, the SCRUM agile framework was applied, with  standupa weekly weekly
+                 sprint reviews. There were 3 iterations for this project, in which my partners and I took on different roles.
 
             </P>
             <List ml={4} my={4}>
