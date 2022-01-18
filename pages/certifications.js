@@ -31,7 +31,7 @@ const Certification = () => {
                     <List ml={4} mb={4}>
                         <ListItem>
                             <Meta>Source Code</Meta>
-                            <Link href="https://github.com/KemoLD/EA-forage-exercises">
+                            <Link href="https://github.com/KemoLD/EA-forage-exercises" target="_blank" rel='noopener noreferrer'>
                                 https://github.com/KemoLD/EA-forage-exercises <ExternalLinkIcon mx="2px" />
                             </Link>
                         </ListItem>
