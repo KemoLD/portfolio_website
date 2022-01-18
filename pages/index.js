@@ -13,6 +13,7 @@ import Paragraph from '../components/paragraph'
 import Section from '../components/section'
 import { BioSection, BioYear } from '../components/bio'
 import Layout from '../components/layouts/article'
+import Typewriter from 'typewriter-effect'
 
 
 const Page = () => {
@@ -39,7 +40,17 @@ const Page = () => {
                         <Heading as="h2" variant="page-title">
                             Kemo Sonko
                         </Heading>
-                        <p>Tech Enthusiast, World-Traveller, Developer, Student-Athlete, and Humanitarian</p>
+                        <p style={{ display: "flex", flexWrap: "warp" }}>I'm...
+                            <Typewriter
+                                options={{
+                                    strings: ['a Tech Enthusiast', 'a World-Traveller', 'an aspiring Software Engineer', 'a Student-Athlete', 'a Humanitarian'],
+                                    autoStart: true,
+                                    delay: 75,
+                                    deleteSpeed: 80,
+                                    loop: true,
+                                }}
+                            />
+                        </p>
                     </Box>
                     <Box
                         flexShrink={0}
