@@ -79,8 +79,8 @@ const Page = () => {
                         I am an observant and motivated student seeking to gain work experience in the computing industry.
                         Being a student-athlete on Simon Fraser University's men's basketball team(NCAA DII) with 25+ weekly hours,
                         I am accustomed to being in a competitive atmosphere and working hard to achieve my goals, all while utlizing my
-                        time management skills to maintain a high academic standard. I am currently pursuing a Bachelor of Applied
-                        Science - B.Sc focused in Computer Science.
+                        time management skills to maintain a high academic standard. I am currently pursuing a Bachelor of Science - 
+                        B.Sc focused in Computer Science.
                     </Paragraph>
                     <Box align="center" my={4}>
                         <NextLink href="/projects">
