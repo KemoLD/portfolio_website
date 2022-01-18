@@ -26,7 +26,7 @@ const Projects = () => {
                         React, Node, HTML, PHP, CSS, TypeScript, JavaScript
                     </BioSection>
                     <BioSection>
-                        <BioYear>Back-end</BioYear>
+                        <BioYear>Back-End</BioYear>
                         Java, Python, C/C++, SQL, MySql
                     </BioSection>
                     <BioSection>
