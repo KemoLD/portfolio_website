@@ -39,7 +39,7 @@ const Page = () => {
                         <Heading as="h2" variant="page-title">
                             Kemo Sonko
                         </Heading>
-                        <p>Tech Enthusiast,World-Traveller, Developer, Student-Athlete, and Humanitarian</p>
+                        <p>Tech Enthusiast, World-Traveller, Developer, Student-Athlete, and Humanitarian</p>
                     </Box>
                     <Box
                         flexShrink={0}
