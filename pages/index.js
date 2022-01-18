@@ -97,11 +97,11 @@ const Page = () => {
                     </Heading>
                     <BioSection>
                         <BioYear>2018</BioYear>
-                        Enrolled at Rochester Institute of Technology and pursued a BsC in Computing Security
+                        Enrolled at Rochester Institute of Technology and pursued a B.Sc in Computing Security
                     </BioSection>
                     <BioSection>
                         <BioYear>2019</BioYear>
-                        Transfered to Simon Fraser University, and switched to a BsC in Computing Science
+                        Transfered to Simon Fraser University, and switched to a B.Sc in Computing Science
                     </BioSection>
                     <BioSection>
                         <BioYear>2021</BioYear>
