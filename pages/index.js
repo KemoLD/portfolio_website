@@ -101,7 +101,7 @@ const Page = () => {
                     </BioSection>
                     <BioSection>
                         <BioYear>2019</BioYear>
-                        Transfered to Simon Fraser University, in Vacouver(Canada),and switched to a B.Sc in Computing Science
+                        Transfered to Simon Fraser University, in Vacouver(Canada), and switched to a B.Sc in Computing Science
                     </BioSection>
                     <BioSection>
                         <BioYear>2021</BioYear>
@@ -122,7 +122,11 @@ const Page = () => {
                         <Link href="http://heenointernational.com/" target="_blank" rel='noopener noreferrer'>
                             Heeno International
                         </Link>
-                        , since 2011, and have participated in major projects throughout Africa.
+                        , since 2011, and have participated in major projects throughout Africa. I was also the recipint of the  {' '}
+                        <Link href="https://twitter.com/cgivancouver/status/1180230838622945280?lang=eng" target="_blank" rel='noopener noreferrer'>
+                            2020 Mahatma Gandhi Annual Student Award
+                        </Link>
+                        , through my work with Heeno.
                     </Paragraph>
                 </Section>
 
