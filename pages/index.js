@@ -43,7 +43,7 @@ const Page = () => {
                         <p style={{ display: "flex", flexWrap: "warp" }}>I'm...
                             <Typewriter
                                 options={{
-                                    strings: ['a Tech Enthusiast', 'a World-Traveller', 'an aspiring Software Engineer', 'a Student-Athlete', 'a Humanitarian'],
+                                    strings: ['a Tech Enthusiast', 'a World Traveller', 'an aspiring Software Engineer', 'a Student-Athlete', 'a Humanitarian'],
                                     autoStart: true,
                                     delay: 75,
                                     deleteSpeed: 80,
