@@ -30,7 +30,7 @@ const Projects = () => {
                         Java, Python, C/C++, SQL, MySql
                     </BioSection>
                     <BioSection>
-                        <BioYear>SKILLS</BioYear>
+                        <BioYear>Skills</BioYear>
                         Figma, Android, Scrum framework, Agile development, API's, JUnit5 testing, PostMan, Data structures
                     </BioSection>
                 </Section>
