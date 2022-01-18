@@ -18,7 +18,7 @@ const Project = () => (
             <List ml={4} my={4}>
                 <ListItem>
                     <Meta>Website</Meta>
-                    <Link href="c-19-trackerr.netlify.app" target="_blank" rel='noopener noreferrer'>
+                    <Link href="https://c-19-trackerr.netlify.app" target="_blank" rel='noopener noreferrer'>
                         c-19-trackerr.netlify.app <ExternalLinkIcon mx="2px" />
                     </Link>
                 </ListItem>
