@@ -31,13 +31,13 @@ const Projects = () => {
                     </BioSection>
                     <BioSection>
                         <BioYear>SKILLS</BioYear>
-                        Figma, Android, Scrum framework, Agile development, API's, JUnit5 testing, PostMan
+                        Figma, Android, Scrum framework, Agile development, API's, JUnit5 testing, PostMan, Data structures
                     </BioSection>
                 </Section>
 
                 <Section delay={0.1}>
                     <Heading as="h3" variant="section-title">
-                        Projects
+                        Featured Projects
                     </Heading>
                 </Section>
 
