@@ -122,11 +122,11 @@ const Page = () => {
                         <Link href="http://heenointernational.com/" target="_blank" rel='noopener noreferrer'>
                             Heeno International
                         </Link>
-                        , since 2011, and have participated in major projects throughout Africa. I am the proud the recipient of the  {' '}
+                        , since 2011, and have participated in major projects throughout Africa. I am the proud recipient of the  {' '}
                         <Link href="https://twitter.com/cgivancouver/status/1180230838622945280?lang=eng" target="_blank" rel='noopener noreferrer'>
                             2020 Mahatma Gandhi Annual Student Award
                         </Link>
-                        , awarded to me by the SFU Institute for the Humanities and the Thakore Charitable Foundation, for my work with Heeno.
+                        , awarded to me by the SFU Institute for the Humanities and the Thakore Charitable Foundation, for my work with Heeno International.
                     </Paragraph>
                 </Section>
 
