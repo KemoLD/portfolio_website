@@ -80,7 +80,7 @@ const Page = () => {
                         Being a student-athlete on Simon Fraser University's men's basketball team(NCAA DII) with 25+ weekly hours,
                         I am accustomed to being in a competitive atmosphere and working hard to achieve my goals, all while utlizing my
                         time management skills to maintain a high academic standard. I am currently pursuing a Bachelor of Science - 
-                        B.Sc focused in Computer Science.
+                        B.Sc focused in Computing Science.
                     </Paragraph>
                     <Box align="center" my={4}>
                         <NextLink href="/projects">
