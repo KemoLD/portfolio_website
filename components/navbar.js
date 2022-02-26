@@ -99,7 +99,7 @@ const Navbar = props => {
                     </a>
                     <a target='_blank'
                         rel='noopener noreferrer'
-                        href="kemosonkoresume.pdf"
+                        href="kemo_sonko_resume.pdf"
                         style={{ paddingLeft: 13, gap: 4, alignItems: 'center', display: 'inline-flex' }}
                     >
                         <IoDocumentText />
@@ -150,7 +150,7 @@ const Navbar = props => {
                                 </MenuItem>
                                 <MenuItem
                                     as={Link}
-                                    href="kemosonkoresume.pdf"
+                                    href="kemo_sonko_resume.pdf"
                                     isExternal
                                 >
                                     <IoDocumentText />
