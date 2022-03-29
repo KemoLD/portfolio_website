@@ -109,7 +109,7 @@ const Page = () => {
                     </BioSection>
                     <BioSection>
                         <BioYear>2022</BioYear>
-                        Software Project Manager and Web developer for the SFU Robot Soccer Club
+                        Software Project Manager and Web Developer for the SFU Robot Soccer Club
                     </BioSection>
                     <BioSection>
                         <BioYear>2022</BioYear>
