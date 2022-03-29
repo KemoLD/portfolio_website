@@ -78,7 +78,7 @@ const Page = () => {
                     <Paragraph>
                         I am an observant and motivated student seeking to gain work experience in the tech industry.
                         Being a student-athlete on Simon Fraser University's men's basketball team(NCAA DII) with 25+ weekly hours,
-                        I am accustomed to being in a competitive atmosphere and working hard to achieve my goals, all while utlizing my
+                        I am accustomed to being in a competitive atmosphere and working hard to achieve my goals, all while utilizing my
                         time management skills to maintain a high academic standard. I am currently pursuing a Bachelor of Science - 
                         B.Sc focused in Computing Science.
                     </Paragraph>
@@ -101,7 +101,7 @@ const Page = () => {
                     </BioSection>
                     <BioSection>
                         <BioYear>2019</BioYear>
-                        Transfered to Simon Fraser University, in Vancouver(Canada), and switched to a B.Sc in Computing Science
+                        Transferred to Simon Fraser University, in Vancouver(Canada), and switched to a B.Sc in Computing Science
                     </BioSection>
                     <BioSection>
                         <BioYear>2021</BioYear>
