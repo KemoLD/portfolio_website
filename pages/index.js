@@ -116,6 +116,10 @@ const Page = () => {
                         QA Developer Intern at Later
                     </BioSection>
                     <BioSection>
+                        <BioYear>2022</BioYear>
+                        FullStack Software Engineering Intern at Apollo Insurance
+                    </BioSection>
+                    <BioSection>
                         <BioYear>2023</BioYear>
                         Expected graduation date
                     </BioSection>
