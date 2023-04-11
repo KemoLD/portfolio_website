@@ -96,31 +96,39 @@ const Page = () => {
                         Timeline
                     </Heading>
                     <BioSection>
-                        <BioYear>2018</BioYear>
+                        <BioYear>May 2018</BioYear>
+                        Obtained the French Baccalaureate in Economic and Social Sciences with the highest honors (Très bien)
+                    </BioSection>
+                    <BioSection>
+                        <BioYear>September 2018</BioYear>
                         Enrolled at Rochester Institute of Technology, in Dubai(UAE), and pursued a B.Sc in Computing Security
                     </BioSection>
                     <BioSection>
-                        <BioYear>2019</BioYear>
+                        <BioYear>September 2019</BioYear>
                         Transferred to Simon Fraser University, in Vancouver(Canada), and switched to a B.Sc in Computing Science
                     </BioSection>
                     <BioSection>
-                        <BioYear>2021</BioYear>
+                        <BioYear>May - September 2021</BioYear>
                         Product Manager Intern at Wenso Ltd
                     </BioSection>
                     <BioSection>
-                        <BioYear>2022</BioYear>
+                        <BioYear>March - August 2022</BioYear>
                         Software Project Manager and Web Developer for the SFU Robot Soccer Club
                     </BioSection>
                     <BioSection>
-                        <BioYear>2022</BioYear>
+                        <BioYear>May - August 2022</BioYear>
                         QA Developer Intern at Later
                     </BioSection>
                     <BioSection>
-                        <BioYear>2022</BioYear>
+                        <BioYear>September 2022 - April 2023</BioYear>
                         FullStack Software Engineering Intern at Apollo Insurance
                     </BioSection>
                     <BioSection>
-                        <BioYear>2023</BioYear>
+                        <BioYear>August 2022 - Present</BioYear>
+                        Community Advisor at Simon Fraser University Residence and Housing
+                    </BioSection>
+                    <BioSection>
+                        <BioYear>April 2024</BioYear>
                         Expected graduation date
                     </BioSection>
                 </Section>
